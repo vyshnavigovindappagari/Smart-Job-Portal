@@ -1,0 +1,20 @@
+# Node
+node_modules/
+dist/
+build/
+
+# Java / Maven
+target/
+*.class
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Environment
+.env
+.env.*
+
+# Logs
+*.log
