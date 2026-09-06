@@ -207,8 +207,8 @@ behind the Spring Boot backend using a reverse proxy (e.g., Nginx).
 ### 👨‍💼 Admin Dashboard
 <img src="admin-dashboard.png" width="800"/>
 
-### 👥 Manage Job Seekers
-<img src="manage-job-seekers.png" width="800"/>
+### 👥 Manage Job Seeker
+<img src="manage-job-seeker.png" width="800"/>
 
 ### 🏢 Recruiter Dashboard
 <img src="recruiter-dashboard.png" width="800"/>
