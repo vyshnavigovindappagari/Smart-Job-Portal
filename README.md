@@ -200,4 +200,3 @@ behind the Spring Boot backend using a reverse proxy (e.g., Nginx).
 
 ---
 
-Happy learning! 🎓
