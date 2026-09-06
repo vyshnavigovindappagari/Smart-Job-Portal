@@ -199,4 +199,19 @@ behind the Spring Boot backend using a reverse proxy (e.g., Nginx).
 - Deploy backend (Render/Railway) + frontend (Vercel/Netlify) + managed MySQL
 
 ---
+## 📸 Screenshots
 
+### 🔐 Login Page
+![Login Page](screenshots/login.png)
+
+### 👨‍💼 Admin Dashboard
+![Admin Dashboard](screenshots/admin-dashboard.png)
+
+### 👥 Manage Job Seekers
+![Manage Job Seekers](screenshots/manage-job-seekers.png)
+
+### 🏢 Recruiter Dashboard
+![Recruiter Dashboard](screenshots/recruiter-dashboard.png)
+
+### 👩‍💻 Job Seeker Dashboard
+![Job Seeker Dashboard](screenshots/job-seeker-dashboard.png)
