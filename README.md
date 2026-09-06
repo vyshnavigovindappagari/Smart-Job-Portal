@@ -202,16 +202,16 @@ behind the Spring Boot backend using a reverse proxy (e.g., Nginx).
 ## 📸 Screenshots
 
 ### 🔐 Login Page
-![Login Page](screenshots/login.png)
+<img src="login.png" width="800"/>
 
 ### 👨‍💼 Admin Dashboard
-![Admin Dashboard](screenshots/admin-dashboard.png)
+<img src="admin-dashboard.png" width="800"/>
 
 ### 👥 Manage Job Seekers
-![Manage Job Seekers](screenshots/manage-job-seekers.png)
+<img src="manage-job-seekers.png" width="800"/>
 
 ### 🏢 Recruiter Dashboard
-![Recruiter Dashboard](screenshots/recruiter-dashboard.png)
+<img src="recruiter-dashboard.png" width="800"/>
 
 ### 👩‍💻 Job Seeker Dashboard
-![Job Seeker Dashboard](screenshots/job-seeker-dashboard.png)
+<img src="job-seeker-dashboard.png" width="800"/>
